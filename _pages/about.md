@@ -18,11 +18,11 @@ In Submission
 
 ***On Demonstration Selection for Large Language Model Fairness*** <br>
 Song Wang, Peng Wang, Yushun Dong, **Haochen Liu**, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li. <br>
-Submitted to NAACL 2025.
+In submission.
 
 ***Question-Aware Knowledge Graph Prompting for Large Language Models*** <br>
 **Haochen Liu**, Song Wang, Chen Chen, Jundong Li. <br>
-Submitted to ICLR 2025.
+In submission.
 
 
 Publication
