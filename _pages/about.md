@@ -15,12 +15,15 @@ My research interests are Large Language Model (LLM), Graph Neural Network (GNN)
 
 In Submission
 ======
+***Knowledge Graph Retrieval-Augmented Generation via GNN-Guided Prompting*** [Code] (https://github.com/HaochenLiu2000/GGR) <br>
+**Haochen Liu**, Song Wang, Jundong Li <br>
+In submission.
 
 ***On Demonstration Selection for Large Language Model Fairness*** <br>
 Song Wang, Peng Wang, Yushun Dong, **Haochen Liu**, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li. <br>
 In submission.
 
-***Question-Aware Knowledge Graph Prompting for Large Language Models*** <br>
+***Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models*** [PDF] (https://www.arxiv.org/abs/2503.23523) [Code] (https://github.com/HaochenLiu2000/QAP)<br>
 **Haochen Liu**, Song Wang, Chen Chen, Jundong Li. <br>
 In submission.
 
@@ -36,10 +39,10 @@ IEEE International Conference on Big Data, 2024.
 Song Wang, Yaochen Zhu, **Haochen Liu**, Zaiyi Zheng, Chen Chen, Jundong Li. <br>
 ACM Computing Surveys, 2024.
 
-***Knowledge Graph-Enhanced Large Language Models via Path Selection*** [PDF](https://arxiv.org/pdf/2406.13862.pdf) <br>
+***Knowledge Graph-Enhanced Large Language Models via Path Selection*** [PDF](https://arxiv.org/pdf/2406.13862.pdf) [Code] (https://github.com/HaochenLiu2000/KELP) <br>
 **Haochen Liu**, Song Wang, Yaochen Zhu, Yushun Dong, Jundong Li. <br>
 Annual Meeting of the Association for Computational Linguistics (ACL), 2024.
 
-***Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation*** [PDF](https://arxiv.org/pdf/2406.15507.pdf) <br>
+***Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation*** [PDF](https://arxiv.org/pdf/2406.15507.pdf) [Code] (https://github.com/HaochenLiu2000/SAFER) <br>
 **Haochen Liu**, Song Wang, Chen Chen, Jundong Li <br>
 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024
