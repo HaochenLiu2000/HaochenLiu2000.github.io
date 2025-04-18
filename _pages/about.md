@@ -23,7 +23,7 @@ In submission.
 Song Wang, Peng Wang, Yushun Dong, **Haochen Liu**, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li. <br>
 In submission.
 
-***Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models*** [PDF] (https://www.arxiv.org/abs/2503.23523) [Code](https://github.com/HaochenLiu2000/QAP)<br>
+***Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models*** [PDF](https://www.arxiv.org/abs/2503.23523) [Code](https://github.com/HaochenLiu2000/QAP)<br>
 **Haochen Liu**, Song Wang, Chen Chen, Jundong Li. <br>
 In submission.
 
