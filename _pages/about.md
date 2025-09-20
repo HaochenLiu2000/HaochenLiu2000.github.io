@@ -16,11 +16,11 @@ My research interests are Large Language Model (LLM), Graph Neural Network (GNN)
 In Submission
 ======
 
-***Mixture-of-Experts for Knowledge Graph Retrieval-Augmented Generation***
+***Mixture-of-Experts for Knowledge Graph Retrieval-Augmented Generation*** <br>
 **Haochen Liu**, Guanghui Min, Song Wang, Yada Zhu, Chen Chen, Jundong Li <br>
 In submission.
 
-***On Demonstration Selection for Large Language Model Fairness***
+***On Demonstration Selection for Large Language Model Fairness*** <br>
 Song Wang, Peng Wang, Yushun Dong, **Haochen Liu**, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li <br>
 In submission.
 
