@@ -15,21 +15,33 @@ My research interests are Large Language Model (LLM), Graph Neural Network (GNN)
 
 In Submission
 ======
-***Knowledge Graph Retrieval-Augmented Generation via GNN-Guided Prompting*** [Code](https://github.com/HaochenLiu2000/GGR) <br>
-**Haochen Liu**, Song Wang, Jundong Li <br>
+
+***Mixture-of-Experts for Knowledge Graph Retrieval-Augmented Generation***
+**Haochen Liu**, Guanghui Min, Song Wang, Yada Zhu, Chen Chen, Jundong Li <br>
 In submission.
 
-***On Demonstration Selection for Large Language Model Fairness*** <br>
-Song Wang, Peng Wang, Yushun Dong, **Haochen Liu**, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li. <br>
+***On Demonstration Selection for Large Language Model Fairness***
+Song Wang, Peng Wang, Yushun Dong, **Haochen Liu**, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li <br>
 In submission.
 
-***Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models*** [PDF](https://www.arxiv.org/abs/2503.23523) [Code](https://github.com/HaochenLiu2000/QAP)<br>
-**Haochen Liu**, Song Wang, Chen Chen, Jundong Li. <br>
-In submission.
+
+
 
 
 Publication
 ======
+
+***MI4Rec: Pretrained Language Model Based Cold-Start Recommendation with Meta-Item Embeddings*** <br>
+Zaiyi Zheng, Yaochen Zhu, **Haochen Liu**, Mingxuan Ju, Tong Zhao, Neil Shah, Jundong Li <br>
+The Conference on Information and Knowledge Management (CIKM), 2025.
+
+***Knowledge Graph Retrieval-Augmented Generation via GNN-Guided Prompting*** [Code](https://github.com/HaochenLiu2000/GGR) <br>
+**Haochen Liu**, Song Wang, Jundong Li <br>
+Conference on Language Modeling (COLM), 2025.
+
+***Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models*** [PDF](https://arxiv.org/pdf/2503.23523.pdf) [Code](https://github.com/HaochenLiu2000/QAP)<br>
+**Haochen Liu**, Song Wang, Chen Chen, Jundong Li. <br>
+Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
 
 ***KG-CF: Knowledge Graph Completion with Context Filtering*** <br>
 Zaiyi Zheng, Yushun Dong, Song Wang, **Haochen Liu**, Jundong Li. <br>
