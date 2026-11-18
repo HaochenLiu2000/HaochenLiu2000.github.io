@@ -16,8 +16,12 @@ My research interests are Large Language Model (LLM), Graph Neural Network (GNN)
 In Submission
 ======
 
-***Mixture-of-Experts for Knowledge Graph Retrieval-Augmented Generation*** <br>
-**Haochen Liu**, Guanghui Min, Song Wang, Yada Zhu, Chen Chen, Jundong Li <br>
+***HARP: Hierarchical Adaptive Ranking with Preference-Adaptive Fusion for Query-Based CVE Prioritization*** <br>
+**Haochen Liu**, Zhengzhang Chen, Haoyu Wang, Yanchi Liu, Jundong Li, Haifeng Chen <br>
+In submission.
+
+***BridgeKG-RAG: Bridging Wording Gaps in Knowledge-Graph RAG*** <br>
+**Haochen Liu**, Lu-An Tang, Peng Yuan, Haoyu Wang, Jundong Li, Haifeng Chen <br>
 In submission.
 
 ***On Demonstration Selection for Large Language Model Fairness*** <br>
@@ -30,6 +34,14 @@ In submission.
 
 Publication
 ======
+
+***Unified Heterogeneous Event Sequence Modeling for Remission-Stage Risk Prediction among Cancer Survivors with Multiple Chronic Conditions*** <br>
+**Haochen Liu**, Yujie Zhang, Naveen Abedin, Nicholas Kidd, Kathleen Porter, Chen Chen, Wen You, Jundong Li <br>
+IEEE International Conference on Healthcare Informatics (ICHI), 2026.
+
+***LSP-RAG: Latent Scoring Perspectives for Knowledge Graph Retrieval-Augmented Generation*** <br>
+**Haochen Liu**, Guanghui Min, Song Wang, Yada Zhu, Chen Chen, Jundong Li <br>
+IEEE International Conference on Data Mining (ICDM), 2026.
 
 ***MI4Rec: Pretrained Language Model Based Cold-Start Recommendation with Meta-Item Embeddings*** <br>
 Zaiyi Zheng, Yaochen Zhu, **Haochen Liu**, Mingxuan Ju, Tong Zhao, Neil Shah, Jundong Li <br>
